@@ -1,0 +1,5 @@
+rootProject.name = '107-gradle-cdk'
+
+include 'cdk'
+include 'app'
+include 'function'
